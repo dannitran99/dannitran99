@@ -2,7 +2,7 @@
 *Software Engineer / Frontend Specialist*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-minhtran.vercel.app-blue?style=flat-square&logo=vercel)](https://minhtran.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)]([#](https://www.linkedin.com/in/dannitran99/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dannitran99/)
 [![Email](https://img.shields.io/badge/Email-dannitran99%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:dannitran99@gmail.com)
 
 ---
