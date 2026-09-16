@@ -17,15 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannitran99&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannitran99&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ### 📬 Connect with Me
 - 📧 Email: **dannitran99@gmail.com**
 - 📞 Phone: **+84 393 567 616**
