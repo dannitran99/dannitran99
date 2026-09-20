@@ -13,7 +13,7 @@
 * **Frameworks:** React.js, Next.js, Vue.js, React Native
 * **3D & Animation:** Three.js, React Three Fiber (R3F), GSAP, Tailwind CSS
 * **Back-end & Databases:** Node.js, Express, Golang, MongoDB
-* **Tools & DevOps:** Git, Docker, Cypress, Playwright, Jest, Electron, Jira
+* **Tools & DevOps:** Git, Docker, Cypress, Playwright, Jira
 
 ---
 
