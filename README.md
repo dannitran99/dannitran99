@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS
-* **Frameworks:** React.js, Next.js, Vue.js, React Native
+* **Library/Frameworks:** React.js, Next.js, Vue.js, React Native
 * **3D & Animation:** Three.js, React Three Fiber (R3F), GSAP, Tailwind CSS
 * **Back-end & Databases:** Node.js, Express, Golang, MongoDB
 * **Tools & DevOps:** Git, Docker, Cypress, Playwright, Jira
