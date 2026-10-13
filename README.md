@@ -20,5 +20,5 @@
 
 ### 📬 Connect with Me
 - 📧 Email: **dannitran99@gmail.com**
-- 📞 Phone: **+84 393 567 616**
+- 📞 Phone: **0393 567 616**
 - 🌐 Website: [minhtran.vercel.app](https://minhtran.vercel.app/)
