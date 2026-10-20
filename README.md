@@ -14,6 +14,7 @@
 * **State Management:** Redux, Zustand, Vuetify
 * **3D & Animation:** Three.js, React Three Fiber (R3F), GSAP, Tailwind CSS
 * **Back-end & Databases:** Node.js, Express, Golang, MongoDB
+* **AI Tools:** Github copilot, Gemini, Claude, ChatGPT
 * **Tools & DevOps:** Git, Docker, Cypress, Playwright, Jira
 
 ---
